@@ -1,3 +1,0 @@
-<template>
-    Under maintenence
-</template>
